@@ -4,7 +4,7 @@
 1. (30m) - Instructor/Course Introduction
     * Introduction Slidedeck
     * Syllabus Overview
-2. (15m) - Project Setup
+2. (30m) - Project Setup
     * Installing VSCode
     * Folder Setup
     * Setting up VSCode (Go Live)
