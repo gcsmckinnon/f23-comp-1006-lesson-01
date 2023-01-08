@@ -8,6 +8,8 @@
     * Installing VSCode
     * Folder Setup
     * Setting up VSCode (Go Live)
+    * Setting up WAMP
+    * Setting up Virtual Host
 3. -- **BREAK** --
 4. (30m) - First Dynamic Webpage
     * Variables, Comments, and Arrays
